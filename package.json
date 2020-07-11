@@ -1,0 +1,24 @@
+{
+  "name": "epita-server-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "srcServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceulain/epita-server-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceulain/epita-server-web/issues"
+  },
+  "homepage": "https://github.com/ceulain/epita-server-web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "openurl": "^1.1.1"
+  }
+}
